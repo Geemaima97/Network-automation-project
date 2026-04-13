@@ -1,8 +1,10 @@
 from netmiko import ConnectHandler
 from configuration import password, secret, userName
 import datetime
+from logger import logger
 
 def backup_device(device):
+    logger.info(f"Connecting to {device['hostname']}")
     connect = ConnectHandler(
         device_type=device['device_type'],
         host=device['ip'],
@@ -10,13 +12,16 @@ def backup_device(device):
         password=password,  
         secret=secret
     )
+
     connect.enable()
     backup= connect.send_command('show running-config')
+    logger.info(f"Backup retrieved for {device['hostname']}")
     return backup
 
 def save_backup(hostname, backup):
+   
     timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
     filename = f"backups/{hostname}_{timestamp}.cfg"
     with open(filename, 'w') as file:
         file.write(backup)
-    print(f"Backup saved for {hostname} at {filename}")
+    logger.info(f"Backup saved for {hostname} at {filename}")

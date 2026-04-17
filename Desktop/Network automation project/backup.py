@@ -18,6 +18,7 @@ def backup_device(device):
     logger.info(f"Backup retrieved for {device['hostname']}")
     return backup
 
+
 def save_backup(hostname, backup):
    
     timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
@@ -25,3 +26,16 @@ def save_backup(hostname, backup):
     with open(filename, 'w') as file:
         file.write(backup)
     logger.info(f"Backup saved for {hostname} at {filename}")
+
+def get_logs(device):
+    connect = ConnectHandler(
+        device_type=device ['device_type'],
+        host=device["ip"],
+        username=userName,
+        password=password,
+        secret=secret
+  )
+    connect.enable()
+    logs = connect.send_command('show logging')
+    return logs
+      

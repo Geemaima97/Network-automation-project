@@ -1,2 +1,2 @@
 hostname,ip,device_type,site,criticality
-DEVNET-IOSXR,sandbox-iosxr-1.cisco.com,cisco_xr,DevNet,high
+devnetsandboxiosxe.cisco.com,sandbox-iosxr-1.cisco.com,cisco_xr,DevNet,high

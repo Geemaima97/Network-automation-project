@@ -1,0 +1,475 @@
+278 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:06.549 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764949]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:19:06.550 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764949]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25278 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:08.285 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764958]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:19:08.286 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764958]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25286 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:08.691 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764958]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:19:08.691 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764958]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25286 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:10.386 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764968]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:19:10.386 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764968]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25293 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:10.841 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764968]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:19:10.841 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764968]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25293 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:23.044 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764995]: Failed authentication for <unknown> from 51.83.143.139 port 20886 ssh2
+RP/0/RP0/CPU0:Apr 15 17:19:23.249 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[764995]: Connection closed by  user cisco 51.83.143.139 port 20886 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:20:06.766 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765098]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:06.766 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765098]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25423 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:07.186 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765098]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:07.186 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765098]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25423 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:08.932 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765105]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:08.932 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765105]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25428 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:09.363 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765105]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:09.364 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765105]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25428 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:11.087 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765113]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:11.087 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765113]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25433 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:11.508 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765113]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:20:11.508 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765113]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25433 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:23.253 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765132]: Failed authentication for <unknown> from 51.83.143.139 port 56452 ssh2
+RP/0/RP0/CPU0:Apr 15 17:20:23.457 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765132]: Connection closed by  user cisco 51.83.143.139 port 56452 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:21:05.015 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765181]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:05.015 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765181]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25538 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:05.420 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765181]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:05.420 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765181]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25538 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:07.161 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765189]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:07.161 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765189]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25545 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:07.572 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765189]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:07.573 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765189]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25545 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:09.343 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765199]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:09.344 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765199]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25551 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:09.773 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765199]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:21:09.773 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765199]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25551 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:23.511 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765218]: Failed authentication for <unknown> from 51.83.143.139 port 26660 ssh2
+RP/0/RP0/CPU0:Apr 15 17:21:23.704 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765218]: Connection closed by  user cisco 51.83.143.139 port 26660 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:22:05.155 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765274]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:05.155 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765274]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25665 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:05.579 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765274]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:05.580 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765274]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25665 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:07.424 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765282]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:07.424 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765282]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25670 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:07.874 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765282]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:07.874 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765282]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25670 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:09.677 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765290]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:09.678 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765290]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25675 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:10.088 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765290]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:22:10.088 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765290]: Failed authentication/pam for <unknown> from 195.63.63.240 port 25675 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:23.666 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765308]: Failed authentication for <unknown> from 51.83.143.139 port 26298 ssh2
+RP/0/RP0/CPU0:Apr 15 17:22:23.871 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765308]: Connection closed by  user cisco 51.83.143.139 port 26298 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:23:06.027 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765390]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:06.028 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765390]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16780 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:06.463 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765390]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:06.463 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765390]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16780 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:08.279 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765398]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:08.279 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765398]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16787 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:08.692 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765398]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:08.692 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765398]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16787 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:10.526 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765406]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:10.526 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765406]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16790 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:10.951 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765406]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:23:10.952 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765406]: Failed authentication/pam for <unknown> from 195.63.63.240 port 16790 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:23.934 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765422]: Failed authentication for <unknown> from 51.83.143.139 port 29436 ssh2
+RP/0/RP0/CPU0:Apr 15 17:23:24.146 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765422]: Connection closed by  user cisco 51.83.143.139 port 29436 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:24:05.619 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765471]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:05.620 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765471]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51052 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:06.052 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765471]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:06.052 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765471]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51052 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:07.837 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765483]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:07.837 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765483]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51057 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:08.256 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765483]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:08.256 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765483]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51057 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:10.049 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765492]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:10.049 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765492]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51062 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:10.481 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765492]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:24:10.482 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765492]: Failed authentication/pam for <unknown> from 195.63.63.240 port 51062 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:24.100 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765509]: Failed authentication for <unknown> from 51.83.143.139 port 49638 ssh2
+RP/0/RP0/CPU0:Apr 15 17:24:24.306 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765509]: Connection closed by  user cisco 51.83.143.139 port 49638 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:24:32.562 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765519]: Connection closed by 10.20.0.4 port 48604
+RP/0/RP0/CPU0:Apr 15 17:25:05.464 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765590]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:05.464 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765590]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28135 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:05.874 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765590]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:05.875 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765590]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28135 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:07.709 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765598]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:07.710 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765598]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28140 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:08.136 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765598]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:08.136 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765598]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28140 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:09.876 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765608]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:09.876 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765608]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28147 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:10.286 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765608]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:25:10.286 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765608]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28147 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:24.279 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765620]: Failed authentication for <unknown> from 51.83.143.139 port 12602 ssh2
+RP/0/RP0/CPU0:Apr 15 17:25:24.485 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765620]: Connection closed by  user cisco 51.83.143.139 port 12602 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:26:05.493 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765659]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:05.493 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765659]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28256 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:05.945 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765659]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:05.946 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765659]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28256 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:07.938 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765667]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:07.938 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765667]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28262 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:08.377 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765667]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:08.377 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765667]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28262 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:10.319 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765677]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:10.319 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765677]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28268 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:10.777 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765677]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:26:10.777 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765677]: Failed authentication/pam for <unknown> from 195.63.63.240 port 28268 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:24.426 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765691]: Failed authentication for <unknown> from 51.83.143.139 port 48436 ssh2
+RP/0/RP0/CPU0:Apr 15 17:26:24.627 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765691]: Connection closed by  user cisco 51.83.143.139 port 48436 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:27:05.207 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765748]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:05.208 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765748]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63614 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:05.629 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765748]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:05.629 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765748]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63614 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:07.486 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765755]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:07.486 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765755]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63619 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:07.919 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765755]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:07.920 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765755]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63619 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:09.711 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765764]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:09.711 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765764]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63624 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:10.122 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765764]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:27:10.123 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765764]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63624 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:19.628 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765774]: Failed authentication for <unknown> from 51.83.143.139 port 11882 ssh2
+RP/0/RP0/CPU0:Apr 15 17:27:19.840 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765774]: Connection closed by  user cisco 51.83.143.139 port 11882 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:28:12.253 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765841]: Permission denied for <unknown> from 195.63.63.240 
+RP/0/RP0/CPU0:Apr 15 17:28:12.253 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765841]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54189 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:12.688 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765841]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:28:12.688 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765841]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54189 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:14.432 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765849]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:28:14.432 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765849]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54196 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:14.845 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765849]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:28:14.846 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765849]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54196 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:16.644 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765858]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:28:16.644 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765858]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54199 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:17.082 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765858]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:28:17.082 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765858]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54199 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:19.760 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765868]: Failed authentication for <unknown> from 51.83.143.139 port 49942 ssh2
+RP/0/RP0/CPU0:Apr 15 17:28:19.967 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765868]: Connection closed by  user cisco 51.83.143.139 port 49942 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:29:06.109 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765902]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:06.109 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765902]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54299 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:06.517 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765902]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:06.518 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765902]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54299 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:08.339 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765913]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:08.340 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765913]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54304 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:08.764 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765913]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:08.764 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765913]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54304 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:10.574 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765922]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:10.574 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765922]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54309 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:10.995 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765922]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:29:10.996 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765922]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54309 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:19.959 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765932]: Failed authentication for <unknown> from 51.83.143.139 port 33542 ssh2
+RP/0/RP0/CPU0:Apr 15 17:29:20.167 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[765932]: Connection closed by  user cisco 51.83.143.139 port 33542 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:30:06.910 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766006]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:06.911 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766006]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54439 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:07.329 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766006]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:07.330 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766006]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54439 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:09.129 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766014]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:09.130 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766014]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54446 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:09.542 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766014]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:09.542 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766014]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54446 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:11.270 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766022]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:11.270 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766022]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54449 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:11.692 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766022]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:30:11.692 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766022]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54449 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:20.150 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766034]: Failed authentication for <unknown> from 51.83.143.139 port 31348 ssh2
+RP/0/RP0/CPU0:Apr 15 17:30:20.356 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766034]: Connection closed by  user cisco 51.83.143.139 port 31348 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:31:05.781 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766070]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:05.782 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766070]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54558 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:06.191 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766070]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:06.191 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766070]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54558 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:07.971 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766077]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:07.971 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766077]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54563 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:08.400 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766077]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:08.400 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766077]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54563 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:10.202 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766086]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:10.202 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766086]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54570 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:10.648 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766086]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:31:10.648 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766086]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54570 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:20.319 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766095]: Failed authentication for <unknown> from 51.83.143.139 port 60912 ssh2
+RP/0/RP0/CPU0:Apr 15 17:31:20.527 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766095]: Connection closed by  user cisco 51.83.143.139 port 60912 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:32:05.452 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766127]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:05.452 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766127]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54689 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:05.863 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766127]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:05.863 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766127]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54689 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:07.627 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766134]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:07.627 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766134]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54692 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:08.058 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766134]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:08.059 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766134]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54692 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:09.782 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766144]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:09.782 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766144]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54693 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:10.187 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766144]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:32:10.187 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766144]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54693 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:20.209 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-3-ERR_GENERAL : sshd[4792]: Incoming SSH session rate limit exceeded
+RP/0/RP0/CPU0:Apr 15 17:32:20.484 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766156]: Failed authentication for <unknown> from 51.83.143.139 port 62564 ssh2
+RP/0/RP0/CPU0:Apr 15 17:32:20.690 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766156]: Connection closed by  user cisco 51.83.143.139 port 62564 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:32:54.829 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766198]: Connection closed by 52.63.32.12 port 15219
+RP/0/RP0/CPU0:Apr 15 17:33:05.987 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766226]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:05.987 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766226]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42920 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:06.391 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766226]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:06.391 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766226]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42920 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:08.228 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766233]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:08.229 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766233]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42925 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:08.639 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766233]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:08.639 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766233]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42925 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:10.443 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766241]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:10.444 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766241]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42930 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:10.867 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766241]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:33:10.868 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766241]: Failed authentication/pam for <unknown> from 195.63.63.240 port 42930 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:20.660 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766252]: Failed authentication for <unknown> from 51.83.143.139 port 27750 ssh2
+RP/0/RP0/CPU0:Apr 15 17:33:20.866 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766252]: Connection closed by  user cisco 51.83.143.139 port 27750 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:34:05.752 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766288]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:05.753 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766288]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43066 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:06.222 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766288]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:06.222 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766288]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43066 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:07.988 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766296]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:07.989 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766296]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43071 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:08.405 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766296]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:08.405 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766296]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43071 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:10.318 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766309]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:10.319 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766309]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43079 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:10.742 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766309]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:34:10.742 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766309]: Failed authentication/pam for <unknown> from 195.63.63.240 port 43079 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:20.842 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766320]: Failed authentication for <unknown> from 51.83.143.139 port 18430 ssh2
+RP/0/RP0/CPU0:Apr 15 17:34:21.047 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[766320]: Connection closed by  user cisco 51.83.143.139 port 18430 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:35:06.379 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767249]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:06.379 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767249]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44878 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:06.792 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767249]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:06.793 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767249]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44878 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:08.567 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767341]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:08.568 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767341]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44883 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:08.999 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767341]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:08.999 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767341]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44883 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:10.724 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767439]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:10.725 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767439]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44888 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:11.137 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767439]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:35:11.138 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767439]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44888 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:11.895 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767525]: Failed authentication for <unknown> from 73.231.245.97 port 54749 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:21.172 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767760]: Failed authentication for <unknown> from 51.83.143.139 port 28990 ssh2
+RP/0/RP0/CPU0:Apr 15 17:35:21.381 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767760]: Connection closed by  user cisco 51.83.143.139 port 28990 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:36:06.116 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767799]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:06.117 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767799]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44995 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:06.532 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767799]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:06.533 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767799]: Failed authentication/pam for <unknown> from 195.63.63.240 port 44995 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:08.276 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767806]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:08.276 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767806]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45000 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:08.695 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767806]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:08.695 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767806]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45000 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:10.445 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767816]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:10.445 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767816]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45005 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:10.864 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767816]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:36:10.864 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767816]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45005 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:21.331 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767826]: Failed authentication for <unknown> from 51.83.143.139 port 63478 ssh2
+RP/0/RP0/CPU0:Apr 15 17:36:21.539 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767826]: Connection closed by  user cisco 51.83.143.139 port 63478 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:37:06.029 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767881]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:06.030 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767881]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45117 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:06.470 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767881]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:06.470 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767881]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45117 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:08.257 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767889]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:08.258 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767889]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45121 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:08.687 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767889]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:08.687 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767889]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45121 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:10.414 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767898]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:10.414 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767898]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45126 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:10.824 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767898]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:37:10.824 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767898]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45126 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:21.522 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767909]: Failed authentication for <unknown> from 51.83.143.139 port 21732 ssh2
+RP/0/RP0/CPU0:Apr 15 17:37:21.725 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767909]: Connection closed by  user cisco 51.83.143.139 port 21732 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:38:05.407 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767977]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:05.407 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767977]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45242 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:05.820 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767977]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:05.820 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767977]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45242 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:07.519 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767984]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:07.519 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767984]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45250 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:07.931 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767984]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:07.931 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767984]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45250 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:09.739 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767994]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:09.739 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767994]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45254 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:10.161 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767994]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:38:10.162 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[767994]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45254 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:21.671 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768006]: Failed authentication for <unknown> from 51.83.143.139 port 36434 ssh2
+RP/0/RP0/CPU0:Apr 15 17:38:21.877 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768006]: Connection closed by  user cisco 51.83.143.139 port 36434 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:39:06.221 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768038]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:06.221 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768038]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45379 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:06.649 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768038]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:06.649 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768038]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45379 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:08.475 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768045]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:08.475 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768045]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45387 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:08.893 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768045]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:08.893 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768045]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45387 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:10.690 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768058]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:10.690 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768058]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45392 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:11.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768058]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:39:11.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768058]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45392 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:21.638 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768067]: Connection closed by 20.64.105.25 port 50448
+RP/0/RP0/CPU0:Apr 15 17:39:21.686 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-3-ERR_GENERAL : sshd[4792]: Incoming SSH session rate limit exceeded
+RP/0/RP0/CPU0:Apr 15 17:39:21.989 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768072]: Failed authentication for <unknown> from 51.83.143.139 port 57688 ssh2
+RP/0/RP0/CPU0:Apr 15 17:39:22.196 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768072]: Connection closed by  user cisco 51.83.143.139 port 57688 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:40:06.409 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768142]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:40:06.409 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768142]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45501 ssh2
+RP/0/RP0/CPU0:Apr 15 17:40:06.865 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768142]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:40:06.866 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768142]: Failed authentication/pam for <unknown> from 195.63.63.240 port 45501 ssh2
+RP/0/RP0/CPU0:Apr 15 17:40:07.482 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-3-ERR_GENERAL : sshd[4792]: Incoming SSH session rate limit exceeded
+RP/0/RP0/CPU0:Apr 15 17:40:07.855 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-3-ERR_GENERAL : sshd[4792]: Incoming SSH session rate limit exceeded
+RP/0/RP0/CPU0:Apr 15 17:40:08.347 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768149]: Failed authentication for <unknown> from 194.87.202.138 port 34866 ssh2
+RP/0/RP0/CPU0:Apr 15 17:40:08.849 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768149]: Permission denied for <unknown> from 194.87.202.138
+RP/0/RP0/CPU0:Apr 15 17:40:08.850 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768149]: Failed authentication/pam for <unknown> from 194.87.202.138 port 34866 ssh2
+RP/0/RP0/CPU0:Apr 15 17:40:09.056 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768149]: Connection closed by  user homeassistantak 194.87.202.138 port 34866 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:40:19.755 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768157]: Connection closed by 10.20.0.4 port 33464
+RP/0/RP0/CPU0:Apr 15 17:40:22.304 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768159]: Failed authentication for <unknown> from 51.83.143.139 port 15908 ssh2
+RP/0/RP0/CPU0:Apr 15 17:40:22.512 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768159]: Connection closed by  user cisco 51.83.143.139 port 15908 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:41:05.312 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768198]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:05.313 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768198]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63806 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:05.771 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768198]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:05.771 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768198]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63806 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:07.574 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768205]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:07.574 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768205]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63811 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:07.993 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768205]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:07.994 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768205]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63811 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:09.874 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768215]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:09.875 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768215]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63817 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:10.406 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768215]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:41:10.406 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768215]: Failed authentication/pam for <unknown> from 195.63.63.240 port 63817 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:22.481 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768226]: Failed authentication for <unknown> from 51.83.143.139 port 31696 ssh2
+RP/0/RP0/CPU0:Apr 15 17:41:22.687 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768226]: Connection closed by  user cisco 51.83.143.139 port 31696 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:42:04.811 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768260]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:04.811 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768260]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46480 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:05.267 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768260]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:05.268 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768260]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46480 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:07.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768267]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:07.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768267]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46485 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:07.553 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768267]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:07.553 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768267]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46485 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:09.430 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768276]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:09.430 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768276]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46490 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:09.855 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768276]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:42:09.855 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768276]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46490 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:22.635 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768288]: Failed authentication for <unknown> from 51.83.143.139 port 19098 ssh2
+RP/0/RP0/CPU0:Apr 15 17:42:22.842 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768288]: Connection closed by  user cisco 51.83.143.139 port 19098 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:43:05.453 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768353]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:05.453 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768353]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46609 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:05.861 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768353]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:05.861 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768353]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46609 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:07.627 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768360]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:07.628 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768360]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46614 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:08.041 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768360]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:08.041 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768360]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46614 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:09.943 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768370]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:09.944 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768370]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46620 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:10.371 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768370]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:43:10.372 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768370]: Failed authentication/pam for <unknown> from 195.63.63.240 port 46620 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:22.961 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768382]: Failed authentication for <unknown> from 51.83.143.139 port 64142 ssh2
+RP/0/RP0/CPU0:Apr 15 17:43:23.170 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768382]: Connection closed by  user cisco 51.83.143.139 port 64142 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:44:05.804 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768417]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:05.804 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768417]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54171 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:06.230 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768417]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:06.230 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768417]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54171 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:08.197 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768424]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:08.198 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768424]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54177 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:08.667 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768424]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:08.668 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768424]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54177 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:10.633 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768433]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:10.634 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768433]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54181 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:11.052 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768433]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:44:11.053 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768433]: Failed authentication/pam for <unknown> from 195.63.63.240 port 54181 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:23.139 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768449]: Failed authentication for <unknown> from 51.83.143.139 port 11842 ssh2
+RP/0/RP0/CPU0:Apr 15 17:44:23.344 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768449]: Connection closed by  user cisco 51.83.143.139 port 11842 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:44:36.847 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768459]: Failed authentication for <unknown> from 73.231.245.97 port 57673 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:06.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768525]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:06.127 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768525]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34888 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:06.545 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768525]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:06.545 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768525]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34888 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:08.297 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768533]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:08.298 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768533]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34893 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:08.767 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768533]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:08.767 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768533]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34893 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:10.606 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768542]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:10.606 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768542]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34900 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:11.044 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768542]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:45:11.045 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768542]: Failed authentication/pam for <unknown> from 195.63.63.240 port 34900 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:23.300 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768554]: Failed authentication for <unknown> from 51.83.143.139 port 38288 ssh2
+RP/0/RP0/CPU0:Apr 15 17:45:23.515 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768554]: Connection closed by  user cisco 51.83.143.139 port 38288 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:46:05.736 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768593]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:05.737 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768593]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35010 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:06.147 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768593]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:06.147 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768593]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35010 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:08.030 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768600]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:08.031 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768600]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35018 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:08.450 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768600]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:08.451 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768600]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35018 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:10.269 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768610]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:10.270 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768610]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35021 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:10.711 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768610]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:46:10.712 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768610]: Failed authentication/pam for <unknown> from 195.63.63.240 port 35021 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:23.477 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768622]: Failed authentication for <unknown> from 51.83.143.139 port 48262 ssh2
+RP/0/RP0/CPU0:Apr 15 17:46:23.688 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768622]: Connection closed by  user cisco 51.83.143.139 port 48262 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:47:05.608 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768672]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:05.609 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768672]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5263 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:06.026 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768672]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:06.026 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768672]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5263 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:07.840 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768682]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:07.840 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768682]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5268 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:08.260 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768682]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:08.260 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768682]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5268 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:10.050 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768690]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:10.050 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768690]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5273 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:10.468 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768690]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:47:10.469 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768690]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5273 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:23.689 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768702]: Failed authentication for <unknown> from 51.83.143.139 port 24254 ssh2
+RP/0/RP0/CPU0:Apr 15 17:47:23.893 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768702]: Connection closed by  user cisco 51.83.143.139 port 24254 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:48:05.223 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768761]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:05.224 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768761]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5385 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:05.682 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768761]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:05.682 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768761]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5385 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:07.437 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768769]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:07.438 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768769]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5391 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:07.842 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768769]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:07.842 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768769]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5391 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:09.634 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768777]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:09.635 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768777]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5398 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:10.072 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768777]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:48:10.073 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768777]: Failed authentication/pam for <unknown> from 195.63.63.240 port 5398 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:21.642 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768790]: Connection closed by 10.20.0.4 port 36024
+RP/0/RP0/CPU0:Apr 15 17:48:23.878 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768792]: Failed authentication for <unknown> from 51.83.143.139 port 62750 ssh2
+RP/0/RP0/CPU0:Apr 15 17:48:24.084 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768792]: Connection closed by  user cisco 51.83.143.139 port 62750 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:49:08.995 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768828]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:08.996 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768828]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21189 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:09.409 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768828]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:09.409 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768828]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21189 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:11.293 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768835]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:11.293 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768835]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21194 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:11.726 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768835]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:11.726 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768835]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21194 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:13.847 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768849]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:13.848 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768849]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21213 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:14.323 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768849]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:49:14.323 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768849]: Failed authentication/pam for <unknown> from 195.63.63.240 port 21213 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:24.020 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768862]: Failed authentication for <unknown> from 51.83.143.139 port 39792 ssh2
+RP/0/RP0/CPU0:Apr 15 17:49:24.226 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768862]: Connection closed by  user cisco 51.83.143.139 port 39792 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:50:06.867 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768928]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:06.868 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768928]: Failed authentication/pam for <unknown> from 195.63.63.240 port 36451 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:07.295 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768928]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:07.296 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768928]: Failed authentication/pam for <unknown> from 195.63.63.240 port 36451 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:09.062 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768935]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:09.062 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768935]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64873 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:09.512 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768935]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:09.512 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768935]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64873 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:10.239 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768942]: Failed authentication for <unknown> from 194.87.202.138 port 33050 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:10.822 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768942]: Permission denied for <unknown> from 194.87.202.138
+RP/0/RP0/CPU0:Apr 15 17:50:10.822 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768942]: Failed authentication/pam for <unknown> from 194.87.202.138 port 33050 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:11.026 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768942]: Connection closed by  user homeassistantak 194.87.202.138 port 33050 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:50:11.378 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768948]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:11.378 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768948]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64878 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:11.803 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768948]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:50:11.804 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768948]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64878 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:24.443 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768974]: Failed authentication for <unknown> from 51.83.143.139 port 34764 ssh2
+RP/0/RP0/CPU0:Apr 15 17:50:24.654 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[768974]: Connection closed by  user cisco 51.83.143.139 port 34764 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:51:07.132 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769013]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:07.133 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769013]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64990 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:07.562 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769013]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:07.562 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769013]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64990 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:09.401 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769020]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:09.402 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769020]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64995 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:09.823 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769020]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:09.823 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769020]: Failed authentication/pam for <unknown> from 195.63.63.240 port 64995 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:11.778 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769029]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:11.779 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769029]: Failed authentication/pam for <unknown> from 195.63.63.240 port 65002 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:12.207 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769029]: Permission denied for <unknown> from 195.63.63.240
+RP/0/RP0/CPU0:Apr 15 17:51:12.207 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769029]: Failed authentication/pam for <unknown> from 195.63.63.240 port 65002 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:19.623 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769039]: Failed authentication for <unknown> from 51.83.143.139 port 11500 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:19.827 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769039]: Connection closed by  user cisco 51.83.143.139 port 11500 [preauth]
+RP/0/RP0/CPU0:Apr 15 17:51:37.062 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769051]: Accepted authentication for geemaima17 from 73.231.245.97 port 60906 ssh2
+RP/0/RP0/CPU0:Apr 15 17:51:39.080 UTC: ssh_syslog_proxy[1189]: %SECURITY-SSHD_SYSLOG_PRX-6-INFO_GENERAL : sshd[769122]: Accepted authentication for geemaima17 from 73.231.245.97 port 60908 ssh2
+PS C:\Users\gmaima\Desktop\Network automation project> 

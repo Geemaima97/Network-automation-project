@@ -1,8 +1,10 @@
 # Network-automation-project
 Network Security Automation & Audit Pipeline
+
 A Python-based network security automation tool that connects to network devices, performs security audits, parses logs using NLP, generates HTML reports, and delivers automated email alerts — building an end-to-end detection and compliance pipeline.
 
 Project Overview
+
 This pipeline automates the process of auditing network device security configurations and analyzing logs for anomalies. It was built to demonstrate how Python can be used to enforce security baselines, detect suspicious activity, and reduce manual analyst workload through automation.
 Key capabilities:
 
@@ -17,6 +19,7 @@ Architecture
 devices.csv
     │
     ▼
+    
 main.py (Orchestrator)
     │
     ├── backup.py       → SSH connection, config backup, log retrieval

@@ -11,6 +11,8 @@ secret = os.getenv("NET_SECRET")
 EMAIL_SENDER = os.getenv("EMAIL_SENDER")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 EMAIL_RECEIVER = os.getenv("EMAIL_RECEIVER")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
 
 #print(f"Username: {userName}")
 #print(f"Password: {password}")

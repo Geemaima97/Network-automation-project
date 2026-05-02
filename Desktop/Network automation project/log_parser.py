@@ -2,7 +2,7 @@ import re
 import nltk
 
 
-TIMESTAMP_PATTERN = r'\w+\s\d+\s[\d:.]+\s\w+'
+TIMESTAMP_PATTERN = r'\w+\s+\d+\s[\d:.]+\s\w+'
 SEVERITY_PATTERN = r'-(\d)-'
 MNEMONIC_PATTERN = r'-\d-(\w+)'
 MESSAGE_PATTERN = r'\s:\s(.+)'

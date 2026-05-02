@@ -1,6 +1,6 @@
 from datetime import datetime
 
-def generate_report(audit_results, parsed_logs, device):
+def generate_report(audit_results, parsed_logs, ai_summary, device):
     total_logs = len(parsed_logs)
     auth_failures = sum(1 for log in parsed_logs if log['category'] == 'authentication_failure')
     rate_limits = sum(1 for log in parsed_logs if log['category'] == 'rate_limit_exceeded')
@@ -27,6 +27,8 @@ def generate_report(audit_results, parsed_logs, device):
        <p>Connection Events: {connection_events}</p>
        <p>Successful Logins: {successful_logins}</p>
 
+       <h2>AI Analysis</h2>
+       <p>{ai_summary}</p>
 
        
     </body>
